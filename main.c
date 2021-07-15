@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-#define branch 1.1
+#define branch 1.2
 
 int main()
 {
